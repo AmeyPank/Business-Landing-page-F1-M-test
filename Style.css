@@ -29,3 +29,22 @@ text-align: left;
     /* padding: 20px; */
     margin: 30px;
 }
+.form{
+    color: #fff;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+input{
+    width: 1000px;
+    margin: 30px;
+    color: #fff;
+    background: #000;
+}
+
+button{
+    text-align: start;
+}
