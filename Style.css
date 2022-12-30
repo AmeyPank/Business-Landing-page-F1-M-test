@@ -48,3 +48,10 @@ input{
 button{
     text-align: start;
 }
+@keyframes fade-inout{
+    0%{opacity:1;}
+    100%{opacity:0;}
+}
+.heading{
+    animation: fade-inout 2s infinite alternate;
+}
