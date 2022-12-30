@@ -55,3 +55,6 @@ button{
 .heading{
     animation: fade-inout 2s infinite alternate;
 }
+h1{
+    animation: fade-inout 2s infinite alternate;
+}
