@@ -1,0 +1,31 @@
+
+.heading h1{
+height: 745px;
+width: 1050px;
+left: 96px;
+top: 229px;
+margin: 30px;
+
+color: slategrey;
+font-family: Inter;
+font-size: 150px;
+font-weight: 700;
+line-height: 242px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.aboutmain{
+    background-color: #ffff;
+    margin-top: 200px;
+}
+
+.container{
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+}
+.card{
+    /* padding: 20px; */
+    margin: 30px;
+}
