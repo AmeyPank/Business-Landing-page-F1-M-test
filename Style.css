@@ -58,3 +58,9 @@ button{
 h1{
     animation: fade-in 2s infinite alternate;
 }
+#ourservices h1:hover{
+    color: slategrey;
+    background:white;
+    cursor: pointer;
+
+}
