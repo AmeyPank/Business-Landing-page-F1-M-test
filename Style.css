@@ -65,7 +65,7 @@ h1{
 
 }
 #chat{
-    background: rgb(225, 113, 214);
+    background: rgb(101, 227, 230);
     color: rgb(4, 45, 57);
     font-size: 24px;
     font-family: inter;
@@ -73,4 +73,7 @@ h1{
     border: 2px solid goldenrod;
     border-radius: 20px;
     margin-bottom: 20px;
+}
+#navli a{
+    color:slategray
 }
