@@ -64,3 +64,13 @@ h1{
     cursor: pointer;
 
 }
+#chat{
+    background: rgb(225, 113, 214);
+    color: rgb(4, 45, 57);
+    font-size: 24px;
+    font-family: inter;
+    margin-left: 80%;
+    border: 2px solid goldenrod;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
